@@ -1,0 +1,6 @@
+{
+  "name": "VietPhuc",
+  "description": "Việt Phục Remix Heritage - Thử cổ phục Việt 3D bằng AI",
+  "permissions": [],
+  "capabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
